@@ -1,6 +1,6 @@
 #Prueba backend-gti-fin-ec
 
 
-URL:http://localhost:8080/api/request
+Api de consumo local: http://localhost:8080/api/request
+Tipo de consumo: GET
 
-TIPO DE CONSUMO: GET
